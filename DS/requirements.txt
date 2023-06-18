@@ -1,0 +1,3 @@
+watchdog
+sqlite3
+requests
